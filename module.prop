@@ -1,0 +1,7 @@
+id=CloudFareDNS4Magisk
+name=CloudFareDNS4Magisk
+version=v1
+versionCode=1
+author=Rom
+description=Using the new CloudFare DNS by Magisk! As simple as that.
+minMagisk=1500
