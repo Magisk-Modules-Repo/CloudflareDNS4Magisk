@@ -1,9 +1,11 @@
-# Magisk Module Template
+As John Graham-Cumming announced, CloudFare now offers its own DNS service.
+And surprise of the Boss if we believe his words: no history of kept service level !
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+But what is a DNS server: to make it short, a DNS server makes the correspondence between the IP address of a requested website, and its domain name (forum.xda-developers.com for example).
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+For the long version a little reading is necessary: https://en.wikipedia.org/wiki/Domain_Name_System
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+The purpose of this module?
+Forward all mobile data by their DNS servers.
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+If you trust them, and install the module properly, restart and enjoy! :)
