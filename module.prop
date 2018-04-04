@@ -1,7 +1,7 @@
-id=CloudFareDNS4Magisk
-name=CloudFareDNS4Magisk
-version=v2.2
-versionCode=22
+id=CloudflareDNS4Magisk
+name=CloudflareDNS4Magisk
+version=v2.3
+versionCode=23
 author=Rom
-description=Using the new CloudFare DNS by Magisk! As simple as that.
+description=Using the new Cloudflare DNS by Magisk! As simple as that.
 minMagisk=1500
