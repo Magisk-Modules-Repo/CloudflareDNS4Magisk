@@ -7,29 +7,29 @@ MODDIR=${0%/*}
 # More info in the main Magisk thread
 
 # Set CF DNS servers address
-resetprop dhcp.wlan0.dns1 || setprop dhcp.wlan0.dns1 1.1.1.1
-resetprop dhcp.wlan0.dns2 || setprop dhcp.wlan0.dns2 1.0.0.1
+setprop dhcp.wlan0.dns1 1.1.1.1
+setprop dhcp.wlan0.dns2 1.0.0.1
 
-resetprop net.eth0.dns1 || setprop net.eth0.dns1 1.1.1.1
-resetprop net.eth0.dns2 || setprop net.eth0.dns2 1.0.0.1
+setprop net.eth0.dns1 1.1.1.1
+setprop net.eth0.dns2 1.0.0.1
 
-resetprop net.dns1 || setprop net.dns1 1.1.1.1
-resetprop net.dns2 || setprop net.dns2 1.0.0.1
+setprop net.dns1 1.1.1.1
+setprop net.dns2 1.0.0.1
 
-resetprop net.ppp0.dns1 || setprop net.ppp0.dns1 1.1.1.1
-resetprop net.ppp0.dns2 || setprop net.ppp0.dns2 1.0.0.1
+setprop net.ppp0.dns1 1.1.1.1
+setprop net.ppp0.dns2 1.0.0.1
 
-resetprop net.rmnet0.dns1 || setprop net.rmnet0.dns1 1.1.1.1
-resetprop net.rmnet0.dns2 || setprop net.rmnet0.dns2 1.0.0.1
+setprop net.rmnet0.dns1 1.1.1.1
+setprop net.rmnet0.dns2 1.0.0.1
 
-resetprop net.rmnet1.dns1 || setprop net.rmnet1.dns1 1.1.1.1
-resetprop net.rmnet1.dns2 || setprop net.rmnet1.dns2 1.0.0.1
+setprop net.rmnet1.dns1 1.1.1.1
+setprop net.rmnet1.dns2 1.0.0.1
 
-resetprop net.pdpbr1.dns1 || setprop net.pdpbr1.dns1 1.1.1.1
-resetprop net.pdpbr1.dns2 || setprop net.pdpbr1.dns2 1.0.0.1
+setprop net.pdpbr1.dns1 1.1.1.1
+setprop net.pdpbr1.dns2 1.0.0.1
 
-resetprop 2606:4700:4700 || setprop 2606:4700:4700::1111
-resetprop 2606:4700:4700 || setprop 2606:4700:4700::1001
+setprop 2606:4700:4700::1111
+setprop 2606:4700:4700::1001
 
 
 
