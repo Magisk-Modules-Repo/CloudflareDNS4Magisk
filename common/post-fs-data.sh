@@ -28,6 +28,9 @@ resetprop net.rmnet1.dns2 || setprop net.rmnet1.dns2 1.0.0.1
 resetprop net.pdpbr1.dns1 || setprop net.pdpbr1.dns1 1.1.1.1
 resetprop net.pdpbr1.dns2 || setprop net.pdpbr1.dns2 1.0.0.1
 
+resetprop 2606:4700:4700 || setprop 2606:4700:4700::1111
+resetprop 2606:4700:4700 || setprop 2606:4700:4700::1001
+
 
 
 # Edit the resolv conf file if it exist
