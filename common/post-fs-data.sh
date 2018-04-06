@@ -7,9 +7,6 @@ MODDIR=${0%/*}
 # More info in the main Magisk thread
 
 # Set CF DNS servers address
-setprop dhcp.wlan0.dns1 1.1.1.1
-setprop dhcp.wlan0.dns2 1.0.0.1
-
 setprop net.eth0.dns1 1.1.1.1
 setprop net.eth0.dns2 1.0.0.1
 
