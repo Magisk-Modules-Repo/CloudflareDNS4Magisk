@@ -1,7 +1,7 @@
 id=CloudflareDNS4Magisk
 name=CloudflareDNS4Magisk
-version=v2.5
-versionCode=25
+version=v2.6
+versionCode=26
 author=Rom
 description=Using the new Cloudflare DNS by Magisk! As simple as that.
 minMagisk=1500
