@@ -1,6 +1,6 @@
-![alt text](https://image.ibb.co/e6OwXH/cloudflare.jpg "Logo CloudFareDNS4Magisk")
+<p align="center"><img src="https://image.ibb.co/e6OwXH/cloudflare.jpg "Logo CloudFareDNS4Magisk")</p>
 
-Hello,
+## Hello,
 
 
 ### As John Graham-Cumming announced, Cloudflare now offers its own DNS service.
@@ -12,6 +12,7 @@ To make it short: a DNS server listen and give you the corresponding IP address 
 
 For the long version a little reading is necessary: https://en.wikipedia.org/wiki/Domain_Name_System
 
+
 ### The purpose of this module?
 Forward all mobile data via their servers.
 
@@ -19,6 +20,12 @@ Forward all mobile data via their servers.
 #### Warning:
 
 Please note that your web provider can purely block all requests if you use customs DNS servers address. I can't do anything for that.
+
+
+## XDA thread (OP):
+
+<a href="https://forum.xda-developers.com/apps/magisk/module-cloudfaredns4magisk-t3772375"><img src="https://img.shields.io/badge/XDA-Thread-yellow.svg?longCache=true&style=flat-square"></a>
+
 
 ### Requirements:
 - An android device (something tells me if you're here it's because you have one..)
