@@ -1,4 +1,4 @@
-<p align="center"><img src="https://image.ibb.co/e6OwXH/cloudflare.jpg "Logo CloudFareDNS4Magisk")</p>
+<p align="center"><img src="https://image.ibb.co/e6OwXH/cloudflare.jpg?longCache=true&style=flat-square" "Logo CloudFareDNS4Magisk")</p>
 
 ## Hello,
 
