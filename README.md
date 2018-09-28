@@ -26,7 +26,7 @@ Please note that your web provider can purely block all requests if you use cust
 
 ### Requirements:
 - An android device (something tells me if you're here it's because you have one..)
-- Magisk installed (v16+ at least)
+- Magisk installed (v17+ at least)
 - five minutes of your free-times (and a little piece of your brain (just in case))
 
 
