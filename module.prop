@@ -1,7 +1,6 @@
 id=CloudflareDNS4Magisk
 name=CloudflareDNS4Magisk
-version=v2.6
-versionCode=26
+version=v2.7
+versionCode=27
 author=Rom
-description=Using the new Cloudflare DNS system-lessly! As simple as that.
-minMagisk=17000
+description=Using the new Cloudflare DNS system-lessy! As simple as that.
